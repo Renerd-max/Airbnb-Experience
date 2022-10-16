@@ -79,7 +79,6 @@ margin: 16px auto 0px 36px;
 #product-cards{
   display: flex;
   overflow-x:scroll;
-  scroll-behavior: smooth;
   scroll-snap-type: x mandatory;
 }
 
